@@ -1,0 +1,2 @@
+# game_test_02
+用于测试使用github进行godot项目版本管理
